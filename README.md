@@ -1,6 +1,6 @@
 ## Getting Started
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+This program allow count word unique inside of a text, removing punctuation marks and specials marks.
 
 ## Folder Structure
 
